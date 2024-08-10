@@ -1,0 +1,264 @@
+<mxfile host="app.diagrams.net" modified="2024-06-27T20:00:34.205Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="bwiz1GUzBLiOFhTm35Gk" version="24.6.4" type="google">
+  <diagram id="5702xV8WYfzEZSn0zTRl" name="Page-1">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-69" target="59Jmw2dpT3aq7HsNmHRe-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="32.039999999999964" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-69" target="59Jmw2dpT3aq7HsNmHRe-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="312.0400000000002" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-69" target="59Jmw2dpT3aq7HsNmHRe-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="172.0400000000002" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-69" value="&lt;span id=&quot;docs-internal-guid-3ccb9f6a-7fff-7f46-d8be-888557d7b7c7&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.08 ; margin-top: 0pt ; margin-bottom: 4.55pt&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.08 ; margin-top: 0pt ; margin-bottom: 4.55pt&quot;&gt;&lt;span&gt;Knowledge of the System&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="82" y="550" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-70" value="&lt;h1&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Black box&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Without additional tools and knowledge about how system works.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-93" y="630" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-71" value="&lt;h1&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Grey box&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Partly knowledge about how system works with some additional tools.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="77" y="630" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-72" value="&lt;h1&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;White box&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Testing with knowledge about how system work, testing on the code level.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="247" y="630" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-73" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-77" target="59Jmw2dpT3aq7HsNmHRe-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-74" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-77" target="59Jmw2dpT3aq7HsNmHRe-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-75" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-77" target="59Jmw2dpT3aq7HsNmHRe-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-76" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-77" target="59Jmw2dpT3aq7HsNmHRe-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-77" value="&lt;span id=&quot;docs-internal-guid-3ccb9f6a-7fff-7f46-d8be-888557d7b7c7&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.08 ; margin-top: 0pt ; margin-bottom: 4.55pt&quot;&gt;Levels of the Testing&lt;/p&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="408" y="249" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-78" value="&lt;p style=&quot;line-height: 0&quot;&gt;&lt;/p&gt;&lt;h6&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Unit (Component)&lt;/font&gt;&lt;/h6&gt;&lt;p&gt;&lt;font style=&quot;font-size: 10px ; line-height: 0.8&quot;&gt;Testing of separate small modules on the code level. Usually by developers.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="568" y="69" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-79" value="&lt;h6&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Integration&lt;/font&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Checking how individual modules interact with each other together.&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/h6&gt;&lt;p&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;...&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="568" y="189" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-80" value="&lt;h6&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;System&lt;/span&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Checking how separate modules interact with each other together.&lt;/font&gt;&lt;br&gt;&lt;/h6&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="568" y="309" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-81" value="&lt;h6&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;User Acceptance&lt;/span&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;The product is tested for end-user compliance and accuracy.&lt;/font&gt;&lt;br&gt;&lt;/h6&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="568" y="429" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="197" y="1040" as="sourcePoint" />
+            <mxPoint x="247" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-83" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-87" target="59Jmw2dpT3aq7HsNmHRe-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-84" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-87" target="59Jmw2dpT3aq7HsNmHRe-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-85" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-87" target="59Jmw2dpT3aq7HsNmHRe-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-86" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-87" target="59Jmw2dpT3aq7HsNmHRe-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-87" value="&lt;span id=&quot;docs-internal-guid-3ccb9f6a-7fff-7f46-d8be-888557d7b7c7&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Related to Changes&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="410" y="810" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-88" value="&lt;h6&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Sanity&lt;/font&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Its purpose is to determine that the provided functionality works as expected.&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/h6&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="570" y="750" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-89" value="&lt;h6&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Regression&lt;/span&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;This is testing to confirm that a recent change to the program or code has not affected the already working functionality.&lt;/font&gt;&lt;br&gt;&lt;/h6&gt;&lt;p&gt;...&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="570" y="870" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-90" value="&lt;h6&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;RE-testing&lt;/span&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;This is to verify that the bug reported by the tester has been fixed.&lt;/font&gt;&lt;br&gt;&lt;/h6&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="570" y="990" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-91" value="&lt;h6&gt;&lt;span style=&quot;background-color: initial; font-size: 12px;&quot;&gt;Smoke&lt;/span&gt;&lt;br&gt;&lt;/h6&gt;&lt;h6&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;The purpose of testing is to check the operation of the most important functions in a short time.&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/h6&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="570" y="610" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-94" target="59Jmw2dpT3aq7HsNmHRe-122">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="85" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-94" target="59Jmw2dpT3aq7HsNmHRe-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-94" value="&lt;span style=&quot;font-size: 16px;&quot; id=&quot;docs-internal-guid-3ccb9f6a-7fff-7f46-d8be-888557d7b7c7&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Object of Testing&lt;/div&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-93" y="60" width="111.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-95" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="59Jmw2dpT3aq7HsNmHRe-98">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="135" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="110" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-96" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.11;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-122" target="59Jmw2dpT3aq7HsNmHRe-126">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="48.79999999999973" y="126.19999999999982" as="sourcePoint" />
+            <mxPoint x="-140" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="135" />
+              <mxPoint x="80" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-97" value="&lt;h6&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Usability&lt;/span&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Testing that checks product usability and user satisfaction.&lt;/font&gt;&lt;br&gt;&lt;/h6&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="245" y="280" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-98" value="&lt;h6&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Security&lt;/span&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Application vulnerability testing.&lt;/font&gt;&lt;br&gt;&lt;/h6&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="247" y="430" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-99" value="&lt;h6&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Compatibility&lt;/font&gt;&lt;br&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Testing in which we check the same set of tests on different browsers, operating systems and devices.&lt;br&gt;&lt;/font&gt;&lt;/h6&gt;&lt;h6&gt;&lt;br&gt;&lt;/h6&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="245" y="35" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-100" value="&lt;h6&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;GUI&lt;/span&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Checking that all interface elements are as designed and free of bugs.&lt;/font&gt;&lt;br&gt;&lt;/h6&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="245" y="160" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-101" value="&lt;h6&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Internationalization&lt;/span&gt;&lt;br&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;It is the process of designing and developing a product so that it can be localized for any culture or language.&lt;/font&gt;&lt;br&gt;&lt;/h6&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="245" y="-90" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-102" value="&lt;h6&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Spike&lt;/span&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Testing, the purpose of which is to check the reaction to a sudden sharp increase in the system load.&lt;/font&gt;&lt;br&gt;&lt;/h6&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-93" y="430" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-103" value="&lt;h6&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Static&lt;/span&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Examines source code and project documents to identify and prevent defects early in the software testing lifecycle.&lt;/font&gt;&lt;br&gt;&lt;/h6&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-93" y="990" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-104" value="&lt;h6&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Dynamic&lt;/span&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;It describes the methods, levels and types of basic quality assurance activities.&lt;/font&gt;&lt;br&gt;&lt;/h6&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="247" y="990" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-106" target="59Jmw2dpT3aq7HsNmHRe-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-106" value="&lt;span id=&quot;docs-internal-guid-3ccb9f6a-7fff-7f46-d8be-888557d7b7c7&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Code execution status&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="87" y="1020" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-109" target="59Jmw2dpT3aq7HsNmHRe-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-109" target="59Jmw2dpT3aq7HsNmHRe-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-109" value="&lt;span id=&quot;docs-internal-guid-3ccb9f6a-7fff-7f46-d8be-888557d7b7c7&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Basis of Scenarios&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="82" y="900" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-110" value="&lt;h6&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Negative&lt;/span&gt;&lt;br&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Observing how the system functions when the user behaves as expected.&lt;/font&gt;&lt;br&gt;&lt;/h6&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="247" y="870" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-111" value="&lt;h6&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Positive&lt;/span&gt;&lt;br&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Checking how the system handles cases when the user behaves as we expect him to&lt;/font&gt;&lt;br&gt;&lt;/h6&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-93" y="870" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-114" target="59Jmw2dpT3aq7HsNmHRe-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-114" target="59Jmw2dpT3aq7HsNmHRe-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-114" value="&lt;span id=&quot;docs-internal-guid-3ccb9f6a-7fff-7f46-d8be-888557d7b7c7&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Degree of Automation&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="82" y="780" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-115" value="&lt;h6&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Manual&lt;/span&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Tests that are performed without automation.&lt;/font&gt;&lt;br&gt;&lt;/h6&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="247" y="750" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-116" value="&lt;h6&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Automation&lt;/span&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;These are the tests that the testing tools perform for us.&lt;/font&gt;&lt;br&gt;&lt;/h6&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-93" y="750" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-117" value="&lt;h6&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Functional&lt;/font&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Testing of the product&#39;s characteristics and operational behavior to ensure that they meet its requirements.&lt;/font&gt;&lt;/h6&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="35" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-118" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-122" target="59Jmw2dpT3aq7HsNmHRe-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-122" target="59Jmw2dpT3aq7HsNmHRe-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-120" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-122" target="59Jmw2dpT3aq7HsNmHRe-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-121" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-122" target="59Jmw2dpT3aq7HsNmHRe-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-122" value="&lt;h6&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Non-Functional&lt;/font&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Non-functional testing is a type of software testing that aims to test non-functional aspects of the system.&lt;/font&gt;&lt;/h6&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="72" y="35" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-126" target="59Jmw2dpT3aq7HsNmHRe-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-124" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-126" target="59Jmw2dpT3aq7HsNmHRe-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-126" target="59Jmw2dpT3aq7HsNmHRe-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-126" value="&lt;h6&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Performance&lt;/span&gt;&lt;/h6&gt;&lt;h6&gt;Performance testing is aimed at investigating the stability of system operation under a certain load.&lt;/h6&gt;&lt;p&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-93" y="280" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-127" value="&lt;h6&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Stress&lt;/span&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Testing that checks system performance when loaded beyond the maximum allowable limit.&lt;br&gt;&lt;/font&gt;&lt;/h6&gt;&lt;h6&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/h6&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="280" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-128" value="&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Load&lt;/font&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Testing checks the system&#39;s operation under a load close to the maximum capacity.&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="150" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-129" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.008;entryY=0.41;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="59Jmw2dpT3aq7HsNmHRe-126" target="59Jmw2dpT3aq7HsNmHRe-128">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-33" y="191" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="59Jmw2dpT3aq7HsNmHRe-130" value="&lt;h6&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Volume&lt;/span&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;System load in order to find the maximum possible load, after which the system stops working.&lt;/font&gt;&lt;br&gt;&lt;/h6&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="430" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="08E62hEeD5wUEni3Y4Yq-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="197" y="1160" as="sourcePoint" />
+            <mxPoint x="247" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="08E62hEeD5wUEni3Y4Yq-2" value="&lt;h6&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Test cases&lt;/span&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Test documentation and you use it during testing.&lt;/font&gt;&lt;br&gt;&lt;/h6&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-93" y="1110" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="08E62hEeD5wUEni3Y4Yq-3" value="&lt;h6&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Ad-Hoc&lt;/span&gt;&lt;/h6&gt;&lt;h6&gt;Testing of the product without documents, that is, you test the product during the familiarization with the product.&lt;/h6&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="247" y="1110" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="08E62hEeD5wUEni3Y4Yq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="08E62hEeD5wUEni3Y4Yq-5" target="08E62hEeD5wUEni3Y4Yq-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="08E62hEeD5wUEni3Y4Yq-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="08E62hEeD5wUEni3Y4Yq-5" target="08E62hEeD5wUEni3Y4Yq-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="08E62hEeD5wUEni3Y4Yq-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="08E62hEeD5wUEni3Y4Yq-5" target="08E62hEeD5wUEni3Y4Yq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="08E62hEeD5wUEni3Y4Yq-5" value="&lt;span id=&quot;docs-internal-guid-3ccb9f6a-7fff-7f46-d8be-888557d7b7c7&quot;&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;Level of Preparation&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="87" y="1140" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="08E62hEeD5wUEni3Y4Yq-6" value="&lt;h6&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Monkey&lt;/span&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Usually an automated test in which the program randomly and unsystematically uses the application under test.&lt;br&gt;&lt;/font&gt;&lt;/h6&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="247" y="1230" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="08E62hEeD5wUEni3Y4Yq-7" value="&lt;h6&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Exploratory&lt;/span&gt;&lt;/h6&gt;&lt;h6&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Testing, the purpose of which is to further investigate the product during testing.&lt;/font&gt;&lt;br&gt;&lt;/h6&gt;" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=1;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="-93" y="1230" width="120" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
